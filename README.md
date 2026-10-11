@@ -1,13 +1,13 @@
-markdown
+
 <h1 align="center">Olá, eu sou o Gustavo!</h1>
 
 <p align="center">
-  🚀 Sou técnico em informática pelo IFMG Campus Formiga (2022 - 2024), com conhecimentos em desenvolvimento web, móvel, banco de dados, manutenção de hardware e redes. Busco oportunidades nessas áreas para aplicar meus conhecimentos, desenvolver experiência profissional e contribuir com a equipe.
+  Sou técnico em informática pelo IFMG Campus Formiga, com conhecimentos em desenvolvimento web, móvel, banco de dados, manutenção de hardware e redes. Busco oportunidades nessas áreas para aplicar meus conhecimentos, desenvolver experiência profissional e contribuir com a equipe.
 </p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <p align="center">
 
@@ -24,7 +24,7 @@ markdown
 
 ---
 
-## 📫 Contatos
+##  Contatos
 
 * LinkedIn: (www.linkedin.com/in/gustavo-rodrigues-756550319)
 * E-mail: gustavorodrigues010406@gmail.com
