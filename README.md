@@ -2,10 +2,6 @@ markdown
 <h1 align="center">Olá, eu sou o Gustavo!</h1>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
-</p>
-
-<p align="center">
   🚀 Sou técnico em informática pelo IFMG Campus Formiga (2022 - 2024), com conhecimentos em desenvolvimento web, móvel, banco de dados, manutenção de hardware e redes. Busco oportunidades nessas áreas para aplicar meus conhecimentos, desenvolver experiência profissional e contribuir com a equipe.
 </p>
 
@@ -24,7 +20,6 @@ markdown
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" title="GitLab" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-
 </p>
 
 ---
