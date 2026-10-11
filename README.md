@@ -29,15 +29,6 @@ markdown
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180rc" src="https://vercel.app" />
-  <img height="180rc" src="https://vercel.app" />
-</p>
-
----
-
 ## 📫 Contatos
 
 * LinkedIn: (www.linkedin.com/in/gustavo-rodrigues-756550319)
