@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá, eu sou o Gustavo!</h1>
 
-<p align="center">
+<p>
   Sou técnico em informática pelo IFMG Campus Formiga, com conhecimentos em desenvolvimento web, móvel, banco de dados, manutenção de hardware e redes. Busco oportunidades nessas áreas para aplicar meus conhecimentos, desenvolver experiência profissional e contribuir com a equipe.
 </p>
 
